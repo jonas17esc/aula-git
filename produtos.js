@@ -11,3 +11,4 @@ for (let chave in produtos) {
 
 console.log(Object.keys(produtos));
 
+console.log(Object.values(produtos));
